@@ -1,5 +1,12 @@
 *
-!.gitignore
-!*.c
 !*/
+!*.c
+!*.h
+!*.md
+!*.txt
+!.gitignore
+.vscode/
 .vscode-server/
+.venv/
+__pycache__/
+.local/
