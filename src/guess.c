@@ -12,6 +12,7 @@ do{
     scanf("%d",&a);
     count++;
     if(a>number){
+        printf("大了\n");
     }else if(a<number){
         printf("小了\n");
     }
