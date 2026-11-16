@@ -18,5 +18,6 @@ do{
     }
 } while(a != number);
     printf("用了%d次,就猜中\n",count);
+    
     return 0;
 }
